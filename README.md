@@ -7,16 +7,16 @@
 ## Demo
 
 ### Landing Page
-![Landing Page](assets/screenshots/landing.png)
+![Landing Page](screenshots/landing.png)
 
 ### Chat — Text Mode
-![Chat Text Mode](assets/screenshots/chat_text.png)
+![Chat Text Mode](screenshots/chat_text.png)
 
 ### Chat — Voice Conversation Mode
-![Voice Conversation Mode](assets/screenshots/chat_voice.png)
+![Voice Conversation Mode](screenshots/chat_voice.png)
 
 ### Saved Verses
-![Saved Verses](assets/screenshots/saved_verses.png)
+![Saved Verses](screenshots/saved_verses.png)
 
 ---
 
